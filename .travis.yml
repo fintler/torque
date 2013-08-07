@@ -16,4 +16,4 @@ compiler:
 
 notifications:
   email:
-    - torquedev@supercluster.org
+    - jonb@lanl.gov
